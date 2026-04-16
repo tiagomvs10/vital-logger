@@ -1,6 +1,6 @@
 # Vital Logger
 
-Embedded system for portable heart-rate and SpO₂ monitoring with face-based authentication, real-time cloud synchronization, and a Flutter mobile/web UI. Developed as the final project for the Embedded Systems course of the MSc in Industrial Electronic Engineering and Computers at the University of Minho.
+Embedded system for portable heart-rate and SpO₂ monitoring with face-based authentication, real-time cloud synchronization, and a Flutter mobile/web UI.
 
 <p align="center">
   <img src="docs/images/hardware_architecture.png" alt="Hardware architecture" width="48%"/>
