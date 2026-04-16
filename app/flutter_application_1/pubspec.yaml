@@ -1,0 +1,37 @@
+name: flutter_application_1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  firebase_database: ^11.0.0
+  firebase_storage: ^12.0.0
+  image_picker: ^1.0.8
+  cupertino_icons: ^1.0.8
+  http: ^1.1.0
+  intl: ^0.20.2
+  fl_chart: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+  
+  assets:
+    - assets/images/heart_logo.png
+
+  

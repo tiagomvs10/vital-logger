@@ -1,0 +1,31 @@
+# Compiled binary
+VitalLogger
+*.out
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Pre-compiled headers
+*.gch
+*.pch
+
+# Shared libs
+*.so
+*.dylib
+*.dll
+
+# Static libs
+*.a
+*.lib
+
+# Debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# ONNX models (download separately — see README)
+*.onnx
