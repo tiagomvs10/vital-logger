@@ -69,7 +69,7 @@ See [`firmware/README.md`](firmware/README.md) for the full class diagram, desig
 | Layer | Technologies |
 |---|---|
 | OS & build | Buildroot 2025.02, Linux kernel 6.6 (ARM64) |
-| Firmware | C++17, POSIX threads, POSIX message queues, libcurl, OpenCV 4 (DNN, objdetect, videoio) |
+| Firmware | C++, POSIX threads, POSIX message queues, libcurl, OpenCV 4 (DNN, objdetect, videoio) |
 | Kernel module | C, Linux character device API, `ioremap`, direct BCM2711 GPIO register access |
 | Sensor I/O | I²C (`MAX30102` IIO driver), GPIO interrupt via `sysfs` |
 | Camera | libcamera + GStreamer (`libcamerasrc`) |
